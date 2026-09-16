@@ -1,0 +1,9 @@
+torch>=2.1
+transformers>=4.46
+vllm>=0.6
+peft>=0.13
+datasets
+accelerate
+tqdm
+numpy
+scipy
